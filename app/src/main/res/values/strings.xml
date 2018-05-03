@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OT</string>
+
+    <array name="types">
+        <item>Front-End Developer</item>
+        <item>Back-End Developer</item>
+        <item>Full-Stack Developer</item>
+        <item>UX/UI Specialist</item>
+        <item>Product Designer</item>
+        <item>Data Analyst</item>
+        <item>Business Analyst</item>
+        <item>Data Scientist</item>
+        <item>Marketing Specialist</item>
+        <item>Talent Acquisition</item>
+        <item>Project Manager</item>
+        <item>Other</item>
+    </array>
+</resources>
